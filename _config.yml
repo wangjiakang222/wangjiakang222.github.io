@@ -12,7 +12,7 @@ title                    : "Jiujiang Li / Homepage"
 title_separator          : "-"
 name                     : &name "Jiujiang Li"
 description              : &description "Master's degree student, School of Management, Zhengzhou University"
-url                      : https://LJJ1125.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://LJJ1125.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LJJ1125/LJJ1125.github.io"
 
@@ -21,7 +21,7 @@ repository               : "LJJ1125/LJJ1125.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "certificate.png"
+  avatar           : "picture.png"
   name             : "Jiujiang Li (李九江)"
   pronouns         :   
   bio              : "Zhengzhou University"
