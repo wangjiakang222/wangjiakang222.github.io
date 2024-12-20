@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jia-kang Wang / Homepage"
+title                    : "Jiakang Wang / Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jiakang Wang"
 description              : &description "personal description"
 url                      : https://wangjiakang222.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "picture.png"
-  name             : "Jia-kang Wang(王嘉康）"
+  name             : "Jiakang Wang(王嘉康）"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduates of the School of Management, Zhengzhou University"
   location         : "China Zhengzhou"
